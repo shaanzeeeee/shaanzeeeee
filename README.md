@@ -42,7 +42,7 @@
 I'm a backend-focused full-stack developer passionate about building scalable systems and creating meaningful digital experiences. With expertise spanning cloud infrastructure, modern web technologies, and data science, I transform complex ideas into production-ready solutions.
 
 - 🚀 **Specialization:** Backend Architecture, Cloud Infrastructure, Full-Stack Development
-- 📚 **Portfolio:** [shaanzeeeee.github.io/portfolio-react](https://shaanzeeeee.github.io/portfolio-react/)
+- 📚 **Portfolio:** [Click here](https://shaanzeeeee.vercel.app/)
 - 📄 **Resume:** [Download CV](https://shaanzeeeee.github.io/portfolio-react/Mahinuzzaman-Shaan-CV.pdf)
 - 📧 **Contact:** mahinuzzaman.shaan@gmail.com
 
