@@ -20,8 +20,4 @@ I am a Computer Science graduate passionate about bridging the gap between AI re
 ### 🌐 Full-Stack Engineering
 * **[Thik Achi](https://github.com/shaanzeeeee/thikachi_)** > A full-featured **MERN stack** holistic wellness platform. Features personalized meal planning, macro tracking, and sleep analysis—all wrapped in a premium **Dark Glassmorphism** design system.
 * **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A cyberpunk-themed video game rating platform integrated with the **RAWG API**.
-    > * **Greed Score:** Track aggressive monetization and P2W elements.
-    > * **Performance Reports:** Real-world GPU/CPU benchmarks and FPS comparisons.
-    > * **Patch-Aware:** Reviews tagged by game version for accuracy.
-
 ---
