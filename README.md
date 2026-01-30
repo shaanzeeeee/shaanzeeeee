@@ -11,14 +11,17 @@ I am a Computer Science graduate passionate about bridging the gap between AI re
 
 # 🚀 Featured Projects
 
-### 🧠 AI & Natural Language Processing
-* **[Uttor Dao (Bangla MCQ Gen)](https://github.com/shaanzeeeee/bangla-mcq-gen)** > An innovative NLP project that automatically generates Bangla Multiple Choice Questions (MCQs) from given text.
-* **[Mock Bhai](https://github.com/shaanzeeeee/mock-bhai)** > An AI-powered interview preparation platform designed to help candidates practice with realistic mock interviews.
-* **[Emotional Arc Mapper](https://github.com/shaanzeeeee/emotional-arc-mapper)** > Visualizes the narrative flow and emotional transitions within a story or text using sentiment analysis.
+### 🛠️ AI & Intelligent Systems
+* **[Oxeye](https://github.com/shaanzeeeee/oxeye)** > An **intelligent code assistant** utilizing **Retrieval-Augmented Generation (RAG)** to answer complex questions about your codebase. It parses code into semantic chunks, understands structural relationships, and provides precise answers with file references.
+* **[Uttor Dao (Bangla MCQ Gen)](https://github.com/shaanzeeeee/bangla-mcq-gen)** > An innovative NLP project that automatically generates Bangla Multiple Choice Questions (MCQs) from raw text, streamlining educational content creation.
+* **[Mock Bhai](https://github.com/shaanzeeeee/mock-bhai)** > An AI-powered interview preparation platform designed to help candidates practice with realistic, LLM-driven mock interviews.
+* **[Emotional Arc Mapper](https://github.com/shaanzeeeee/emotional-arc-mapper)** > Visualizes narrative flow and emotional transitions within stories using advanced sentiment analysis.
 
-### 🌐 Full-Stack Development
-* **[Oxeye](https://github.com/shaanzeeeee/oxeye)** > A full-stack solution focused on modern web architecture and seamless user experiences.
-* **[Thik Achi](https://github.com/shaanzeeeee/thikachi_)** > A task management and productivity application built to streamline daily workflows.
-* **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A sleek web application focused on rating and reviewing services with a high-performance UI.
+### 🌐 Full-Stack Engineering
+* **[Thik Achi](https://github.com/shaanzeeeee/thikachi_)** > A full-featured **MERN stack** holistic wellness platform. Features personalized meal planning, macro tracking, and sleep analysis—all wrapped in a premium **Dark Glassmorphism** design system.
+* **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A cyberpunk-themed video game rating platform integrated with the **RAWG API**.
+    > * **Greed Score:** Track aggressive monetization and P2W elements.
+    > * **Performance Reports:** Real-world GPU/CPU benchmarks and FPS comparisons.
+    > * **Patch-Aware:** Reviews tagged by game version for accuracy.
 
 ---
