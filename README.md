@@ -11,13 +11,14 @@ I am a Computer Science graduate passionate about bridging the gap between AI re
 
 # 🚀 Featured Projects
 
-### 🛠️ AI & Intelligent Systems
+### 🧠 AI & Intelligent Systems
 * **[Oxeye](https://github.com/shaanzeeeee/oxeye)** > An **intelligent code assistant** utilizing **Retrieval-Augmented Generation (RAG)** to answer complex questions about your codebase. It parses code into semantic chunks, understands structural relationships, and provides precise answers with file references.
-* **[Uttor Dao (Bangla MCQ Gen)](https://github.com/shaanzeeeee/bangla-mcq-gen)** > An innovative NLP project that automatically generates Bangla Multiple Choice Questions (MCQs) from raw text, streamlining educational content creation.
-* **[Mock Bhai](https://github.com/shaanzeeeee/mock-bhai)** > An AI-powered interview preparation platform designed to help candidates practice with realistic, LLM-driven mock interviews.
-* **[Emotional Arc Mapper](https://github.com/shaanzeeeee/emotional-arc-mapper)** > Visualizes narrative flow and emotional transitions within stories using advanced sentiment analysis.
+* **[Uttor Dao (Bangla MCQ Gen)](https://github.com/shaanzeeeee/bangla-mcq-gen)** > An innovative NLP project that automatically generates **Bangla Multiple Choice Questions (MCQs)** from raw text, streamlining educational content creation.
+* **[Emotional Arc Mapper](https://github.com/shaanzeeeee/emotional-arc-mapper)** > Visualizes narrative flow and emotional transitions within stories or texts using advanced sentiment analysis and data visualization.
 
 ### 🌐 Full-Stack Engineering
-* **[Thik Achi](https://github.com/shaanzeeeee/thikachi_)** > A full-featured **MERN stack** holistic wellness platform. Features personalized meal planning, macro tracking, and sleep analysis—all wrapped in a premium **Dark Glassmorphism** design system.
-* **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A cyberpunk-themed video game rating platform integrated with the **RAWG API**.
+* **[Mock Bhai](https://github.com/shaanzeeeee/mock-bhai)** > A **real-time technical interview platform** that enables seamless coding interviews. Features include **integrated video calls**, real-time chat, and a **collaborative code editor**, connecting interviewers and candidates in a unified, interactive environment.
+* **[Thik Achi](https://github.com/shaanzeeeee/thikachi_)** > A full-featured **MERN stack** holistic wellness platform. Features personalized meal planning, macro tracking, exercise logging, and sleep analysis, presented with a premium **Dark Glassmorphism** design system.
+* **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A cyberpunk-themed video game rating platform with crowdsourced metrics and RAWG API integration.
+
 ---
