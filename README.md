@@ -17,5 +17,5 @@ I am a Computer Science graduate passionate about bridging the gap between AI re
 * **[Mock Bhai](https://github.com/shaanzeeeee/mock-bhai)** > A **real-time technical interview platform** that enables seamless coding interviews. Features include integrated video calls, real-time chat, and a collaborative code editor, connecting interviewers and candidates in a unified, interactive environment.
 * **[Thik Achi](https://github.com/shaanzeeeee/thikachi)** > A full-featured MERN stack holistic **wellness platform**. Features personalized meal planning, macro tracking, exercise logging, and sleep analysis, presented with a premium Dark Glassmorphism design system.
 * **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A cyberpunk-themed **video game rating platform** with crowdsourced metrics and RAWG API integration.
-* **[Startup Stats]([https://github.com/shaanzeeeee/rate-punk](https://github.com/shaanzeeeee/startups-stats))**> This project provides an end-to-end pipeline for extracting, cleaning, and analyzing data from the Y Combinator (YC) Directory for Startups.
+* **[Startup Stats](https://github.com/shaanzeeeee/startups-stats)**> This project provides an end-to-end pipeline for extracting, cleaning, and analyzing data from the Y Combinator (YC) Directory for Startups.
 ---
