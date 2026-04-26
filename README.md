@@ -1,22 +1,117 @@
-# 💫 About Me:
-I am a Computer Science graduate passionate about bridging the gap between AI research and full-stack engineering. My goal is to build intelligent, scalable systems, currently demonstrated through projects involving NLP, RAG, and the MERN stack.
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinuzzaman-shaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahinuzzaman.shaan@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5347D9&height=120&section=header&text=&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=&descAlignY=55&descAlign=50" width="100%"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# Mahinuzzaman Shaan
+### CS Graduate · AI Engineer · Full-Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinuzzaman-shaan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahinuzzaman.shaan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaanzeeeee)
+
+*Bridging AI research and production engineering — building intelligent, scalable systems.*
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## ⚡ At a Glance
 
-* **[Oxeye](https://github.com/shaanzeeeee/oxeye)** > An **intelligent code assistant** utilizing Retrieval-Augmented Generation (RAG) to answer complex questions about your codebase. It parses code into semantic chunks, understands structural relationships, and provides precise answers with file references.
-* **[Uttor Dao (Bangla MCQ Gen)](https://github.com/shaanzeeeee/bangla-mcq-gen)** > An innovative NLP project that automatically generates **Bangla Multiple Choice Questions (MCQs)** from raw text, streamlining educational content creation.
-* **[Emotional Arc Mapper](https://github.com/shaanzeeeee/emotional-arc-mapper)** > Visualizes narrative flow and emotional transitions within stories or texts using advanced **sentiment analysis and data visualization**.
-* **[Mock Bhai](https://github.com/shaanzeeeee/mock-bhai)** > A **real-time technical interview platform** that enables seamless coding interviews. Features include integrated video calls, real-time chat, and a collaborative code editor, connecting interviewers and candidates in a unified, interactive environment.
-* **[Thik Achi](https://github.com/shaanzeeeee/thikachi)** > A full-featured MERN stack holistic **wellness platform**. Features personalized meal planning, macro tracking, exercise logging, and sleep analysis, presented with a premium Dark Glassmorphism design system.
-* **[Rate Punk](https://github.com/shaanzeeeee/rate-punk)** > A cyberpunk-themed **video game rating platform** with crowdsourced metrics and RAWG API integration.
-* **[PC Parts Classifier](https://github.com/shaanzeeeee/pc_parts_classifier_vit)** > This project is an end-to-end computer vision pipeline that uses PyTorch, FastAI, and a Vision Transformer (ViT-Base) to classify PC hardware and cable management quality across 11 categories.
-* **[Startup Stats](https://github.com/shaanzeeeee/startups-stats)**> This project provides an end-to-end pipeline for extracting, cleaning, and analyzing data from the Y Combinator (YC) Directory for Startups.
+```
+🧠  AI / ML        →  RAG pipelines, NLP, Computer Vision, Sentiment Analysis
+🌐  Full-Stack     →  MERN, Next.js, FastAPI, TypeScript
+🗄️  Databases      →  MongoDB, PostgreSQL, MySQL, Prisma
+📍  Location       →  Dhaka, Bangladesh   |   Open to remote & relocation
+```
+
 ---
+
+## 🚀 Featured Projects
+
+| Project | Domain | What it does |
+|---|---|---|
+| [**Oxeye**](https://github.com/shaanzeeeee/oxeye) | `AI · RAG` | Intelligent code assistant — parses codebases into semantic chunks, answers complex questions with precise file references |
+| [**Uttor Dao**](https://github.com/shaanzeeeee/bangla-mcq-gen) | `NLP · Bangla` | Auto-generates Bangla MCQs from raw text using NLP — streamlines educational content creation |
+| [**Mock Bhai**](https://github.com/shaanzeeeee/mock-bhai) | `Full-Stack · Real-time` | Technical interview platform with live video, chat, and a collaborative code editor in one unified environment |
+| [**PC Parts Classifier**](https://github.com/shaanzeeeee/pc_parts_classifier_vit) | `CV · ViT` | End-to-end Vision Transformer pipeline classifying PC hardware across 11 categories with PyTorch + FastAI |
+| [**Emotional Arc Mapper**](https://github.com/shaanzeeeee/emotional-arc-mapper) | `NLP · DataViz` | Visualizes narrative emotional transitions through sentiment analysis — see how stories feel, not just what they say |
+| [**Thik Achi**](https://github.com/shaanzeeeee/thikachi) | `MERN · Wellness` | Full-featured wellness platform — meal planning, macro tracking, exercise logging, and sleep analysis |
+| [**Rate Punk**](https://github.com/shaanzeeeee/rate-punk) | `Full-Stack · API` | Cyberpunk-themed video game rating platform with crowdsourced metrics and RAWG API integration |
+| [**Startup Stats**](https://github.com/shaanzeeeee/startups-stats) | `Data · Analytics` | End-to-end pipeline extracting, cleaning, and analyzing data from the Y Combinator startup directory |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shaanzeeeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5347D9&icon_color=5347D9&text_color=C9D1D9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanzeeeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5347D9&text_color=C9D1D9&langs_count=6" />
+
+</div>
+
+---
+
+## 💡 What I'm About
+
+I'm a CS graduate passionate about building systems where AI is not an afterthought — it's the core. Whether that's a **RAG-powered code assistant** that understands your codebase structure, an **NLP pipeline** generating educational content in Bangla, or a **Vision Transformer** classifying hardware from images, I care deeply about taking ideas all the way from research to working product.
+
+On the full-stack side, I build with the MERN stack and Next.js, with a focus on clean architecture and real-time capabilities.
+
+**Currently looking for roles in:** AI/ML engineering, full-stack development, or anything at the intersection of both.
+
+---
+
+<div align="center">
+
+**Let's build something intelligent.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinuzzaman-shaan)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahinuzzaman.shaan@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5347D9&height=80&section=footer" width="100%"/>
+
+</div>
