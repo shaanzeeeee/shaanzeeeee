@@ -17,7 +17,7 @@
 <br/>
 
 ```
-  AI / ML      →  RAG pipelines · n8n · Agentic AI ·  NLP · Computer Vision · LLMs
+  AI / ML      →  RAG · n8n · Agentic AI ·  NLP · Computer Vision · LLMs · LangGraph
   Languages    →  Python · JavaScript · TypeScript · C
   Databases    →  MongoDB · PostgreSQL · MySQL · Prisma
   Backend      →  FastAPI · Express.JS · Node.JS
