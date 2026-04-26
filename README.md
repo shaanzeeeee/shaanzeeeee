@@ -17,9 +17,12 @@
 <br/>
 
 ```
-  AI / ML      →  RAG pipelines · NLP · Computer Vision · Sentiment Analysis
-  Full-Stack   →  MERN · Next.js · FastAPI · TypeScript
+  AI / ML      →  RAG pipelines · n8n · Agentic AI ·  NLP · Computer Vision · LLMs
+  Languages    →  Python · JavaScript · TypeScript · C
   Databases    →  MongoDB · PostgreSQL · MySQL · Prisma
+  Backend      →  FastAPI · Express.JS · Node.JS
+  Frontend     →  React · NextJS · TailwindCSS
+  Tools        →  Git · Docker · AWS
   Status       →  Open to roles in AI/ML engineering & full-stack development
 ```
 
