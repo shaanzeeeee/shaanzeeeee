@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5347D9&height=120&section=header&text=&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24&height=140&section=header&reversal=false&animation=twinkling" width="100%"/>
 
 # Mahinuzzaman Shaan
 ### CS Graduate · AI Engineer · Full-Stack Developer
@@ -112,6 +112,6 @@ On the full-stack side, I build with the MERN stack and Next.js, with a focus on
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinuzzaman-shaan)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahinuzzaman.shaan@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5347D9&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24&height=100&section=footer&reversal=true&animation=twinkling" width="100%"/>
 
 </div>
