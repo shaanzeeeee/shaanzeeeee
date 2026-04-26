@@ -32,13 +32,13 @@
 | | Project | Domain | Description |
 |---|---|---|---|
 | ◆ | [**Oxeye**](https://github.com/shaanzeeeee/oxeye) | `AI · RAG` | Code assistant using RAG — parses codebases into semantic chunks, answers questions with file references |
-| ◆ | [**Uttor Dao**](https://github.com/shaanzeeeee/bangla-mcq-gen) | `NLP · Bangla` | Auto-generates Bangla MCQs from raw text — streamlines educational content creation |
-| ◆ | [**Mock Bhai**](https://github.com/shaanzeeeee/mock-bhai) | `Full-Stack · Real-time` | Technical interview platform with live video, collaborative code editor, and real-time chat |
-| ◆ | [**PC Parts Classifier**](https://github.com/shaanzeeeee/pc_parts_classifier_vit) | `CV · ViT` | Vision Transformer pipeline classifying PC hardware across 11 categories with PyTorch + FastAI |
-| ◆ | [**Emotional Arc Mapper**](https://github.com/shaanzeeeee/emotional-arc-mapper) | `NLP · DataViz` | Visualizes emotional transitions in text through sentiment analysis |
-| ◆ | [**Thik Achi**](https://github.com/shaanzeeeee/thikachi) | `MERN · Wellness` | Full-featured wellness platform — meal planning, macro tracking, exercise logging, sleep analysis |
-| ◆ | [**Rate Punk**](https://github.com/shaanzeeeee/rate-punk) | `Full-Stack · API` | Cyberpunk-themed video game rating platform with crowdsourced metrics and RAWG API integration |
-| ◆ | [**Startup Stats**](https://github.com/shaanzeeeee/startups-stats) | `Data · Analytics` | End-to-end pipeline extracting and analyzing data from the Y Combinator startup directory |
+| ◆ | [**Uttor Dao**](https://github.com/shaanzeeeee/bangla-mcq-gen) | `NLP + Data Engineering` | Auto-generates Bangla MCQs from raw text — streamlines educational content creation |
+| ◆ | [**Mock Bhai**](https://github.com/shaanzeeeee/mock-bhai) | `MERN · WEBRTC` | Technical interview platform with live video, collaborative code editor, and real-time chat |
+| ◆ | [**PC Parts Classifier**](https://github.com/shaanzeeeee/pc_parts_classifier_vit) | `Computer Vision` | Vision Transformer pipeline classifying PC hardware across 11 categories with PyTorch + FastAI |
+| ◆ | [**Emotional Arc Mapper**](https://github.com/shaanzeeeee/emotional-arc-mapper) | `NLP · Sentiment Analysis` | Visualizes emotional transitions in text through sentiment analysis |
+| ◆ | [**Thik Achi**](https://github.com/shaanzeeeee/thikachi) | `MERN` | Full-featured wellness platform — meal planning, macro tracking, exercise logging, sleep analysis |
+| ◆ | [**Rate Punk**](https://github.com/shaanzeeeee/rate-punk) | `NESTJS` | Cyberpunk-themed video game rating platform with crowdsourced metrics and RAWG API integration |
+| ◆ | [**Startup Stats**](https://github.com/shaanzeeeee/startups-stats) | `Data Analytics + Web Scraping` | End-to-end pipeline extracting and analyzing data from the Y Combinator startup directory |
 
 ---
 
