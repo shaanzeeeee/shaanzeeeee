@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/2uGyzqAMyCR0FBVkZ4/giphy.gif" width="100%" alt="lofi dark anime aesthetic banner"/>
+<img src="https://media2.giphy.com/media/2uGyzqAMyCR0FBVkZ4/200.gif" width="100%" height="150px" alt="lofi dark anime aesthetic banner"/>
 
 # Mahinuzzaman Shaan
 ### CS Graduate · AI Engineer · Full-Stack Developer
@@ -112,6 +112,6 @@ On the full-stack side, I build with the MERN stack and Next.js, with a focus on
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahinuzzaman-shaan)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahinuzzaman.shaan@gmail.com)
 
-<img src="https://media0.giphy.com/media/HwwEg8PZ8BKCCwS2oa/200.gif" width="100%" alt="lofi dark anime aesthetic footer"/>
+<img src="https://media0.giphy.com/media/HwwEg8PZ8BKCCwS2oa/200.gif" width="100%" height="120px" alt="lofi dark anime aesthetic footer"/>
 
 </div>
